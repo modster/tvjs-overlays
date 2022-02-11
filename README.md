@@ -1,4 +1,4 @@
-
+*
 
 <div align="center">
   <img width="318" heigth="256" src="assets/README-e6a22b27.png" alt="trading-vue logo">

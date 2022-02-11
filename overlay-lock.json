@@ -5,6 +5,11 @@
             "author": "StdSquad",
             "is_tool": false
         },
+        "Area51": {
+            "version": "1.0.0",
+            "author": "👽",
+            "is_tool": false
+        },
         "ATR": {
             "version": "1.0.0",
             "author": "StdSquad",
@@ -13,11 +18,6 @@
         "ATRp": {
             "version": "1.0.0",
             "author": "StdSquad",
-            "is_tool": false
-        },
-        "Area51": {
-            "version": "1.0.0",
-            "author": "👽",
             "is_tool": false
         },
         "BB": {
@@ -60,12 +60,12 @@
             "author": "StdSquad",
             "is_tool": false
         },
-        "HMA": {
+        "Histogram": {
             "version": "1.0.0",
             "author": "StdSquad",
             "is_tool": false
         },
-        "Histogram": {
+        "HMA": {
             "version": "1.0.0",
             "author": "StdSquad",
             "is_tool": false
@@ -100,6 +100,11 @@
             "author": "StdSquad",
             "is_tool": false
         },
+        "Markers": {
+            "version": "1.0.1",
+            "author": "C451",
+            "is_tool": false
+        },
         "MFI": {
             "version": "1.0.0",
             "author": "StdSquad",
@@ -110,12 +115,12 @@
             "author": "StdSquad",
             "is_tool": false
         },
-        "Markers": {
-            "version": "1.0.1",
-            "author": "C451",
+        "PlotCross": {
+            "version": "1.0.0",
+            "author": "StdSquad",
             "is_tool": false
         },
-        "PlotCross": {
+        "Ribbon": {
             "version": "1.0.0",
             "author": "StdSquad",
             "is_tool": false
@@ -130,11 +135,6 @@
             "author": "StdSquad",
             "is_tool": false
         },
-        "Ribbon": {
-            "version": "1.0.0",
-            "author": "StdSquad",
-            "is_tool": false
-        },
         "SAR": {
             "version": "1.0.0",
             "author": "StdSquad",
@@ -145,17 +145,12 @@
             "author": "StdSquad",
             "is_tool": false
         },
-        "SWMA": {
-            "version": "1.0.0",
-            "author": "StdSquad",
-            "is_tool": false
-        },
         "Stoch": {
             "version": "1.0.0",
             "author": "StdSquad",
             "is_tool": false
         },
-        "TSI": {
+        "SWMA": {
             "version": "1.0.0",
             "author": "StdSquad",
             "is_tool": false
@@ -163,6 +158,11 @@
         "TradesPlus": {
             "version": "1.0.1",
             "author": "C451",
+            "is_tool": false
+        },
+        "TSI": {
+            "version": "1.0.0",
+            "author": "StdSquad",
             "is_tool": false
         },
         "VWMA": {
